@@ -12,7 +12,7 @@ const Btn = document.querySelector('.menu-trigger'),
 const textTyper = document.querySelector('.text'),
     blinkCursor = document.querySelector('.cursor');
 
-const textList = ['Alberto', 'Front-End Developer']
+const textList = ['Alberto', 'Full-Stack Developer']
     typing = 150,
     erasing = 50,
     switchDelay = 2500;
